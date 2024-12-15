@@ -17,7 +17,7 @@ This is a simple and functional **To-Do App** built with React. The app allows u
 ## Folder Structure
 
 ```
-.
+src
 ├── App.jsx          # Main app component
 ├── TodoList.jsx     # To-do list component with functionality
 ├── main.jsx         # Entry point for the React app
@@ -28,7 +28,7 @@ This is a simple and functional **To-Do App** built with React. The app allows u
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/Rakshathganiga/To-Do-List.git
    cd todolist
    ```
 
@@ -62,9 +62,5 @@ The entry point for the React application. It initializes the app and renders it
 ### 4. index.css
 Contains all the styles for the app, including the layout and themes for buttons and list items.
 
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 "# To-Do-List" 
